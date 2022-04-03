@@ -1,17 +1,8 @@
 body {
-
-  background-color:lightblue;
-  
+background-color:#FBEFDE;
 }
 
 hr {
-
-  border-style:none; background-color:white; height:2px;
-
-}
-
-h2 {
-  
-  color: green;
+  border-style:none; background-color:#D5BEAE; height:3px;
 }
 
