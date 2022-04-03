@@ -1,2 +1,2 @@
 # gulnazzh.github.io
-Ny website
+my website
