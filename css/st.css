@@ -1,13 +1,17 @@
 body {
 
-  background-color:pink;
+  background-color:lightblue;
   
 }
 
 hr {
 
-  border-style:none; background-color:blue; height:2px;
+  border-style:none; background-color:white; height:2px;
 
 }
 
+h2 {
+  
+  color: green;
+}
 
